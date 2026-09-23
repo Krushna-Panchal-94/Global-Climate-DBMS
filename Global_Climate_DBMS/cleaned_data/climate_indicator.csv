@@ -1,0 +1,52 @@
+indicator_id,indicator_code,indicator_name
+1,SP.URB.TOTL.IN.ZS,Urban population (% of total population)
+2,SP.URB.TOTL,Urban population
+3,SP.URB.GROW,Urban population growth (annual %)
+4,SP.POP.TOTL,"Population, total"
+5,SP.POP.GROW,Population growth (annual %)
+6,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population)
+7,SH.STA.MALN.ZS,"Prevalence of underweight, weight for age (% of children under 5)"
+8,SH.MED.CMHW.P3,"Community health workers (per 1,000 people)"
+9,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)"
+10,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)"
+11,SE.ENR.PRSC.FM.ZS,"School enrollment, primary and secondary (gross), gender parity index (GPI)"
+12,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)"
+13,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high)
+14,ER.PTD.TOTL.ZS,Terrestrial and marine protected areas (% of total territorial area)
+15,ER.MRN.PTMR.ZS,Marine protected areas (% of territorial waters)
+16,ER.LND.PTLD.ZS,Terrestrial protected areas (% of total land area)
+17,ER.H2O.FWTL.ZS,"Annual freshwater withdrawals, total (% of internal resources)"
+18,ER.H2O.FWTL.K3,"Annual freshwater withdrawals, total (billion cubic meters)"
+19,EN.URB.MCTY.TL.ZS,Population in urban agglomerations of more than 1 million (% of total population)
+20,EN.POP.EL5M.ZS,Population living in areas where elevation is below 5 meters (% of total population)
+21,EN.POP.EL5M.UR.ZS,Urban population living in areas where elevation is below 5 meters (% of total population)
+22,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population)
+23,EN.CLC.MDAT.ZS,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)"
+24,EN.CLC.DRSK.XQ,Disaster risk reduction progress score (1-5 scale; 5=best)
+25,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita)
+26,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita)
+27,EG.USE.COMM.GD.PP.KD,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)"
+28,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption)
+29,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)"
+30,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)"
+31,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output)
+32,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total)
+33,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total)
+34,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total)
+35,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total)
+36,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total)
+37,EG.ELC.ACCS.ZS,Access to electricity (% of population)
+38,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)"
+39,AG.YLD.CREL.KG,Cereal yield (kg per hectare)
+40,AG.LND.PRCP.MM,Average precipitation in depth (mm per year)
+41,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land)
+42,AG.LND.FRST.ZS,Forest area (% of land area)
+43,AG.LND.FRST.K2,Forest area (sq. km)
+44,AG.LND.EL5M.ZS,Land area where elevation is below 5 meters (% of total land area)
+45,AG.LND.EL5M.UR.ZS,Urban land area where elevation is below 5 meters (% of total land area)
+46,AG.LND.EL5M.UR.K2,Urban land area where elevation is below 5 meters (sq. km)
+47,AG.LND.EL5M.RU.ZS,Rural land area where elevation is below 5 meters (% of total land area)
+48,AG.LND.EL5M.RU.K2,Rural land area where elevation is below 5 meters (sq. km)
+49,AG.LND.ARBL.ZS,Arable land (% of land area)
+50,AG.LND.AGRI.ZS,Agricultural land (% of land area)
+51,AG.LND.AGRI.K2,Agricultural land (sq. km)

@@ -1,0 +1,265 @@
+country_id,country_code,country_name,region_id,income_group_id
+1,ABW,Aruba,1.0,1.0
+2,AFE,Africa Eastern and Southern,,
+3,AFG,Afghanistan,2.0,2.0
+4,AFW,Africa Western and Central,,
+5,AGO,Angola,3.0,3.0
+6,ALB,Albania,4.0,4.0
+7,AND,Andorra,4.0,1.0
+8,ARB,Arab World,,
+9,ARE,United Arab Emirates,2.0,1.0
+10,ARG,Argentina,1.0,4.0
+11,ARM,Armenia,4.0,4.0
+12,ASM,American Samoa,5.0,1.0
+13,ATG,Antigua and Barbuda,1.0,1.0
+14,AUS,Australia,5.0,1.0
+15,AUT,Austria,4.0,1.0
+16,AZE,Azerbaijan,4.0,4.0
+17,BDI,Burundi,3.0,2.0
+18,BEL,Belgium,4.0,1.0
+19,BEN,Benin,3.0,3.0
+20,BFA,Burkina Faso,3.0,2.0
+21,BGD,Bangladesh,6.0,3.0
+22,BGR,Bulgaria,4.0,1.0
+23,BHR,Bahrain,2.0,1.0
+24,BHS,"Bahamas, The",1.0,1.0
+25,BIH,Bosnia and Herzegovina,4.0,4.0
+26,BLR,Belarus,4.0,4.0
+27,BLZ,Belize,1.0,4.0
+28,BMU,Bermuda,7.0,1.0
+29,BOL,Bolivia,1.0,3.0
+30,BRA,Brazil,1.0,4.0
+31,BRB,Barbados,1.0,1.0
+32,BRN,Brunei Darussalam,5.0,1.0
+33,BTN,Bhutan,6.0,3.0
+34,BWA,Botswana,3.0,4.0
+35,CAF,Central African Republic,3.0,2.0
+36,CAN,Canada,7.0,1.0
+37,CEB,Central Europe and the Baltics,,
+38,CHE,Switzerland,4.0,1.0
+39,CHI,Channel Islands,4.0,1.0
+40,CHL,Chile,1.0,1.0
+41,CHN,China,5.0,4.0
+42,CIV,Côte d'Ivoire,3.0,3.0
+43,CMR,Cameroon,3.0,3.0
+44,COD,"Congo, Dem. Rep.",3.0,2.0
+45,COG,"Congo, Rep.",3.0,3.0
+46,COL,Colombia,1.0,4.0
+47,COM,Comoros,3.0,3.0
+48,CPV,Cabo Verde,3.0,4.0
+49,CRI,Costa Rica,1.0,1.0
+50,CSS,Caribbean small states,,
+51,CUB,Cuba,1.0,4.0
+52,CUW,Curaçao,1.0,1.0
+53,CYM,Cayman Islands,1.0,1.0
+54,CYP,Cyprus,4.0,1.0
+55,CZE,Czechia,4.0,1.0
+56,DEU,Germany,4.0,1.0
+57,DJI,Djibouti,2.0,3.0
+58,DMA,Dominica,1.0,4.0
+59,DNK,Denmark,4.0,1.0
+60,DOM,Dominican Republic,1.0,4.0
+61,DZA,Algeria,2.0,4.0
+62,EAP,East Asia & Pacific (excluding high income),,
+63,EAR,Early-demographic dividend,,
+64,EAS,East Asia & Pacific,,
+65,ECA,Europe & Central Asia (excluding high income),,
+66,ECS,Europe & Central Asia,,
+67,ECU,Ecuador,1.0,4.0
+68,EGY,"Egypt, Arab Rep.",2.0,3.0
+69,EMU,Euro area,,
+70,ERI,Eritrea,3.0,2.0
+71,ESP,Spain,4.0,1.0
+72,EST,Estonia,4.0,1.0
+73,ETH,Ethiopia,3.0,2.0
+74,EUU,European Union,,
+75,FIN,Finland,4.0,1.0
+76,FJI,Fiji,5.0,4.0
+77,FRA,France,4.0,1.0
+78,FRO,Faroe Islands,4.0,1.0
+79,FSM,"Micronesia, Fed. Sts.",5.0,4.0
+80,GAB,Gabon,3.0,4.0
+81,GBR,United Kingdom,4.0,1.0
+82,GEO,Georgia,4.0,4.0
+83,GHA,Ghana,3.0,3.0
+84,GIB,Gibraltar,4.0,1.0
+85,GIN,Guinea,3.0,3.0
+86,GMB,"Gambia, The",3.0,2.0
+87,GNB,Guinea-Bissau,3.0,2.0
+88,GNQ,Equatorial Guinea,3.0,4.0
+89,GRC,Greece,4.0,1.0
+90,GRD,Grenada,1.0,4.0
+91,GRL,Greenland,4.0,1.0
+92,GTM,Guatemala,1.0,4.0
+93,GUM,Guam,5.0,1.0
+94,GUY,Guyana,1.0,1.0
+95,HIC,High income,,
+96,HKG,"Hong Kong SAR, China",5.0,1.0
+97,HND,Honduras,1.0,3.0
+98,HPC,Heavily indebted poor countries (HIPC),,
+99,HRV,Croatia,4.0,1.0
+100,HTI,Haiti,1.0,3.0
+101,HUN,Hungary,4.0,1.0
+102,IBD,IBRD only,,
+103,IBT,IDA & IBRD total,,
+104,IDA,IDA total,,
+105,IDB,IDA blend,,
+106,IDN,Indonesia,5.0,4.0
+107,IDX,IDA only,,
+108,IMN,Isle of Man,4.0,1.0
+109,IND,India,6.0,3.0
+110,IRL,Ireland,4.0,1.0
+111,IRN,"Iran, Islamic Rep.",2.0,4.0
+112,IRQ,Iraq,2.0,4.0
+113,ISL,Iceland,4.0,1.0
+114,ISR,Israel,2.0,1.0
+115,ITA,Italy,4.0,1.0
+116,JAM,Jamaica,1.0,4.0
+117,JOR,Jordan,2.0,4.0
+118,JPN,Japan,5.0,1.0
+119,KAZ,Kazakhstan,4.0,4.0
+120,KEN,Kenya,3.0,3.0
+121,KGZ,Kyrgyz Republic,4.0,3.0
+122,KHM,Cambodia,5.0,3.0
+123,KIR,Kiribati,5.0,3.0
+124,KNA,St. Kitts and Nevis,1.0,1.0
+125,KOR,"Korea, Rep.",5.0,1.0
+126,KWT,Kuwait,2.0,1.0
+127,LAC,Latin America & Caribbean (excluding high income),,
+128,LAO,Lao PDR,5.0,3.0
+129,LBN,Lebanon,2.0,3.0
+130,LBR,Liberia,3.0,2.0
+131,LBY,Libya,2.0,4.0
+132,LCA,St. Lucia,1.0,4.0
+133,LCN,Latin America & Caribbean,,
+134,LDC,Least developed countries: UN classification,,
+135,LIC,Low income,,
+136,LIE,Liechtenstein,4.0,1.0
+137,LKA,Sri Lanka,6.0,4.0
+138,LMC,Lower middle income,,
+139,LMY,Low & middle income,,
+140,LSO,Lesotho,3.0,3.0
+141,LTE,Late-demographic dividend,,
+142,LTU,Lithuania,4.0,1.0
+143,LUX,Luxembourg,4.0,1.0
+144,LVA,Latvia,4.0,1.0
+145,MAC,"Macao SAR, China",5.0,1.0
+146,MAF,St. Martin (French part),1.0,1.0
+147,MAR,Morocco,2.0,3.0
+148,MCO,Monaco,4.0,1.0
+149,MDA,Moldova,4.0,4.0
+150,MDG,Madagascar,3.0,2.0
+151,MDV,Maldives,6.0,4.0
+152,MEA,"Middle East, North Africa, Afghanistan & Pakistan",,
+153,MEX,Mexico,1.0,4.0
+154,MHL,Marshall Islands,5.0,4.0
+155,MIC,Middle income,,
+156,MKD,North Macedonia,4.0,4.0
+157,MLI,Mali,3.0,2.0
+158,MLT,Malta,2.0,1.0
+159,MMR,Myanmar,5.0,3.0
+160,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",,
+161,MNE,Montenegro,4.0,4.0
+162,MNG,Mongolia,5.0,4.0
+163,MNP,Northern Mariana Islands,5.0,1.0
+164,MOZ,Mozambique,3.0,2.0
+165,MRT,Mauritania,3.0,3.0
+166,MUS,Mauritius,3.0,4.0
+167,MWI,Malawi,3.0,2.0
+168,MYS,Malaysia,5.0,4.0
+169,NAC,North America,,
+170,NAM,Namibia,3.0,3.0
+171,NCL,New Caledonia,5.0,1.0
+172,NER,Niger,3.0,2.0
+173,NGA,Nigeria,3.0,3.0
+174,NIC,Nicaragua,1.0,3.0
+175,NLD,Netherlands,4.0,1.0
+176,NOR,Norway,4.0,1.0
+177,NPL,Nepal,6.0,3.0
+178,NRU,Naoero,5.0,1.0
+179,NZL,New Zealand,5.0,1.0
+180,OED,OECD members,,
+181,OMN,Oman,2.0,1.0
+182,OSS,Other small states,,
+183,PAK,Pakistan,2.0,3.0
+184,PAN,Panama,1.0,1.0
+185,PER,Peru,1.0,4.0
+186,PHL,Philippines,5.0,4.0
+187,PLW,Palau,5.0,1.0
+188,PNG,Papua New Guinea,5.0,3.0
+189,POL,Poland,4.0,1.0
+190,PRE,Pre-demographic dividend,,
+191,PRI,Puerto Rico (US),1.0,1.0
+192,PRK,"Korea, Dem. People's Rep.",5.0,2.0
+193,PRT,Portugal,4.0,1.0
+194,PRY,Paraguay,1.0,4.0
+195,PSE,West Bank and Gaza,2.0,3.0
+196,PSS,Pacific island small states,,
+197,PST,Post-demographic dividend,,
+198,PYF,French Polynesia,5.0,1.0
+199,QAT,Qatar,2.0,1.0
+200,ROU,Romania,4.0,1.0
+201,RUS,Russian Federation,4.0,1.0
+202,RWA,Rwanda,3.0,2.0
+203,SAS,South Asia,,
+204,SAU,Saudi Arabia,2.0,1.0
+205,SDN,Sudan,3.0,2.0
+206,SEN,Senegal,3.0,3.0
+207,SGP,Singapore,5.0,1.0
+208,SLB,Solomon Islands,5.0,3.0
+209,SLE,Sierra Leone,3.0,2.0
+210,SLV,El Salvador,1.0,4.0
+211,SMR,San Marino,4.0,1.0
+212,SOM,"Somalia, Fed. Rep.",3.0,2.0
+213,SRB,Serbia,4.0,4.0
+214,SSA,Sub-Saharan Africa (excluding high income),,
+215,SSD,South Sudan,3.0,2.0
+216,SSF,Sub-Saharan Africa,,
+217,SST,Small states,,
+218,STP,São Tomé and Principe,3.0,3.0
+219,SUR,Suriname,1.0,4.0
+220,SVK,Slovak Republic,4.0,1.0
+221,SVN,Slovenia,4.0,1.0
+222,SWE,Sweden,4.0,1.0
+223,SWZ,Eswatini,3.0,3.0
+224,SXM,Sint Maarten (Dutch part),1.0,1.0
+225,SYC,Seychelles,3.0,1.0
+226,SYR,Syrian Arab Republic,2.0,2.0
+227,TCA,Turks and Caicos Islands,1.0,1.0
+228,TCD,Chad,3.0,2.0
+229,TEA,East Asia & Pacific (IDA & IBRD),,
+230,TEC,Europe & Central Asia (IDA & IBRD),,
+231,TGO,Togo,3.0,3.0
+232,THA,Thailand,5.0,4.0
+233,TJK,Tajikistan,4.0,3.0
+234,TKM,Turkmenistan,4.0,4.0
+235,TLA,Latin America & Caribbean (IDA & IBRD),,
+236,TLS,Timor-Leste,5.0,3.0
+237,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",,
+238,TON,Tonga,5.0,4.0
+239,TSA,South Asia (IDA & IBRD),,
+240,TSS,Sub-Saharan Africa (IDA & IBRD),,
+241,TTO,Trinidad and Tobago,1.0,1.0
+242,TUN,Tunisia,2.0,3.0
+243,TUR,Türkiye,4.0,4.0
+244,TUV,Tuvalu,5.0,4.0
+245,TZA,Tanzania,3.0,3.0
+246,UGA,Uganda,3.0,2.0
+247,UKR,Ukraine,4.0,4.0
+248,UMC,Upper middle income,,
+249,URY,Uruguay,1.0,1.0
+250,USA,United States,7.0,1.0
+251,UZB,Uzbekistan,4.0,3.0
+252,VCT,St. Vincent and the Grenadines,1.0,4.0
+253,VEN,"Venezuela, RB",1.0,3.0
+254,VGB,British Virgin Islands,1.0,1.0
+255,VIR,Virgin Islands (US),1.0,1.0
+256,VNM,Viet Nam,5.0,4.0
+257,VUT,Vanuatu,5.0,3.0
+258,WLD,World,,
+259,WSM,Samoa,5.0,4.0
+260,XKX,Kosovo,4.0,4.0
+261,YEM,"Yemen, Rep.",2.0,2.0
+262,ZAF,South Africa,3.0,4.0
+263,ZMB,Zambia,3.0,3.0
+264,ZWE,Zimbabwe,3.0,3.0

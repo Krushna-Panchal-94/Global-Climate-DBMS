@@ -1,0 +1,52 @@
+organization_id,organization
+1,"World Urbanization Prospects, United Nations (UN), uri: https://population.un.org/wup/, note: United Nations Population Division's World Urbanization Prospects, National definitions, publisher: UN Population Division"
+2,"World Urbanization Prospects, United Nations (UN), uri: https://population.un.org/wup/, note: World Bank staff estimates based on the United Nations Population Division's World Urbanization Prospects, National definitions, publisher: UN Population Division;
+Staff estimates, World Bank (WB), note: World Bank staff estimates based on the United Nations Population Division's World Urbanization Prospects, National definitions"
+3,"World Population Prospects, United Nations (UN), uri: https://population.un.org/wpp/, publisher: UN Population Division;
+Statistical databases and publications from national statistical offices, National Statistical Offices (NSOs), uri: https://unstats.un.org/home/nso_sites/, publisher: National Statistical Offices;
+Eurostat: Demographic Statistics, Eurostat (ESTAT), uri: https://ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly, publisher: Eurostat;
+Population and Vital Statistics Report (various years), United Nations (UN), uri: https://unstats.un.org, publisher: UN Statistics Division"
+4,"World Population Prospects, United Nations (UN), note: Derived from total population, publisher: UN Population Division;
+Statistical databases and publications from national statistical offices, National Statistical Offices (NSOs), note: Derived from total population;
+Demographic Statistics, Eurostat (ESTAT), note: Derived from total population;
+Population and Vital Statistics Report (various years), United Nations (UN), note: Derived from total population, publisher: UN Statistical Division"
+5,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database."
+6,"UNICEF, WHO, World Bank: Joint child Malnutrition Estimates (JME). Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology., UN Children's Fund (UNICEF), note: Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology;
+World Health Organization (WHO), note: Joint child Malnutrition Estimates (JME); Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology;
+World Bank (WB), note: Joint child Malnutrition Estimates (JME); Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology"
+7,"Global Health Workforce Statistics, World Health Organization (WHO);
+Organisation for Economic Co-operation and Development (OECD);
+Country data"
+8,"UN Inter-agency Group for Child Mortality Estimation, UN Children's Fund (UNICEF), uri: www.childmortality.org, publisher: UNICEF, WHO, World Bank, United Nations Population Division;
+World Health Organization (WHO), uri: www.childmortality.org, note: UN Inter-agency Group for Child Mortality Estimation;
+World Bank (WB), uri: www.childmortality.org, note: UN Inter-agency Group for Child Mortality Estimation;
+United Nations (UN), uri: www.childmortality.org, note: UN Inter-agency Group for Child Mortality Estimation, publisher: UN Population Division"
+9,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2026-03-19, date published: 2026-02"
+10,"Stat Bulk Data Download Service, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://uis.unesco.org/bdds, publisher: UNESCO Institute for Statistics (UIS)"
+11,"Country official statistics, National Statistical Organizations and/or Central Banks;
+National Accounts data files, Organisation for Economic Co-operation and Development (OECD);
+Staff estimates, World Bank (WB)"
+12,"CPIA database, World Bank Group (WBG), uri: https://datacatalog.worldbank.org/int/search/dataset/0038988"
+13,"Protected Planet: The World Database on Protected Areas (WDPA) and World Database on Other Effective Area-based Conservation Measures (WD-OECM), UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC), uri: https://www.protectedplanet.net/en, publisher: Protected Planet, date accessed: 20240516, date published: 202405;
+International Union for Conservation of Nature (IUCN), uri: https://www.protectedplanet.net/en, publisher: Protected Planet, date accessed: 20240516"
+14,"Protected Planet: The World Database on Protected Areas (WDPA) and World Database on Other Effective Area-based Conservation Measures (WD-OECM), UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC), uri: https://www.protectedplanet.net/en, note: Only the latest data can be retrieved from the Protected Planet website. The time series are provided directly to WDI by Protected Planet., publisher: Protected Planet, date accessed: 20240516, date published: 202405;
+International Union for Conservation of Nature (IUCN), uri: https://www.protectedplanet.net/en, publisher: Protected Planet, date accessed: 20240516"
+15,"AQUASTAT - FAO's Global Information System on Water and Agriculture, Food and Agriculture Organization of the United Nations (FAO), uri: https://data.apps.fao.org/aquastat/, publisher: Food and Agriculture Organization of the United Nations (FAO), date accessed: 20240529"
+16,"World Urbanization Prospects 2018, United Nations (UN), uri: https://population.un.org/wup/, publisher: UN Population Division, date published: 2018"
+17,"Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 3, Center For International Earth Science Information Network (CIESIN) - Columbia University, uri: https://doi.org/10.7927/d1x1-d702, publisher: NASA Earthdata GIS, date accessed: 202112, date published: 202112;
+CUNY Institute for Demographic Research (CIDR) - City University of New York, uri: https://doi.org/10.7927/d1x1-d702, publisher: NASA Earthdata GIS, date accessed: 202112"
+18,"EM-DAT The International Disaster Database, Centre for Research on the Epidemiology of Disasters (CRED) - Université Catholique de Louvain, uri: https://www.emdat.be/"
+19,"2009-2011 Progress Reports, UN Office for Disaster Risk Reduction (UNDRR), uri: http://www.preventionweb.net/english/hyogo"
+20,"IEA Energy Statistics Data Browser, International Energy Agency (IEA), uri: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser, publisher: International Energy Agency (IEA), date accessed: 2025-03-25"
+21,"SDG 7.1.1 Electrification Dataset, World Bank (WB), uri: https://trackingsdg7.esmap.org/downloads, note: Data is downloaded from ESMAP website. Data is released when a new Tracking SDG7 report is released., publisher: World Bank (WB), date accessed: 2024-05-16, date published: 2023"
+22,"International Financial Statistics and Balance of Payments databases, International Monetary Fund (IMF);
+International Debt Statistics, World Bank (WB);
+World Bank GDP estimates, World Bank (WB);
+OECD GDP estimates, Organisation for Economic Co-operation and Development (OECD)"
+23,"FAO electronic files and web site, Food and Agriculture Organization of the United Nations (FAO), uri: https://www.fao.org/faostat/en/#data/QCL, publisher: Food and Agriculture Organization of the United Nations (FAO)"
+24,"FAOSTAT, Food and Agriculture Organization of the United Nations (FAO), publisher: Food and Agriculture Organization of the United Nations (FAO)"
+25,"FAO electronic files and web site, Food and Agriculture Organization of the United Nations (FAO), uri: https://www.fao.org/faostat/en/#data/RL, publisher: Food and Agriculture Organization of the United Nations (FAO)"
+26,"FAOSTAT, Food and Agriculture Organization of the United Nations (FAO), uri: https://www.fao.org/faostat/en/#data/RL, publisher: Food and Agriculture Organization of the United Nations (FAO)"
+27,"Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 3, Center For International Earth Science Information Network (CIESIN) - Columbia University, uri: https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-lecz-urplaev3-3.00, publisher: NASA Socioeconomic Data and Applications Center (SEDAC), date published: 2021"
+28,"FAO electronic files and website, Food and Agriculture Organization of the United Nations (FAO), publisher: Food and Agriculture Organization of the United Nations (FAO)"
+29,"FAO electronic files and web site, Food and Agriculture Organization of the United Nations (FAO), publisher: Food and Agriculture Organization of the United Nations (FAO)"
